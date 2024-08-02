@@ -1,7 +1,7 @@
 name: mobile_no_hint
 description: "The Phone Number Hint API by Google Play services shows user SIM-based phone numbers as hints seamlessly."
 version: 0.0.1
-homepage:
+homepage: https://github.com/developer-shubham101/MobileNoHint
 
 environment:
   sdk: '>=3.3.4 <4.0.0'
